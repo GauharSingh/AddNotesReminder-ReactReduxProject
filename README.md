@@ -5,5 +5,5 @@ I have used reactJs ,redux, and react-redux, with webpack bundle feature, have u
 
 
 ### Simple ReactRedux Project 
-A baby React-ReduxJs Project
-You will learn how to use make bundle with the help of webpack,use plugins to minify html,and plgins for extra features
+A baby React-ReduxJs Project For Absolute Beginners</br>
+You will learn how to make bundle with the help of webpack,use loaders to minify html,and plgins for extra features
